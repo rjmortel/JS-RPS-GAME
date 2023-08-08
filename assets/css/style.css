@@ -1,0 +1,30 @@
+.game-box {
+    max-width: 700px;
+}
+.vs {
+    color: red;
+}
+.display-you {
+    width: 200px;
+    height: 200px;
+}
+.display-win {
+    width: 50px;
+    height: 30px;
+}
+.display-com {
+    width: 200px;
+    height: 200px;
+}
+.rock:hover {
+    transform: scale(1.2);
+   
+}
+.scissor:hover {
+    transform: scale(1.2);
+   
+}
+.paper:hover {
+    transform: scale(1.2);
+    
+}
